@@ -1,4 +1,4 @@
-## Day 3 – 
+## Day 3 
 **Tasks Completed:**
 - Integrated AI predictions with IoT actuators.
 - Tested end-to-end workflow: sensor → AI model → actuator.
