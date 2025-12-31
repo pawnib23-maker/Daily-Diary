@@ -1,3 +1,14 @@
-Day 1 – Introduction to Smart Fusion
+## Day 1 – Date: 01/01/2025
+**Tasks Completed:**
+- Introduction to Smart Fusion platform and its architecture.
+- Installed Python, Jupyter Notebook, Smart Fusion IDE.
+- Explored basic IoT sensor modules (Temperature, Humidity).
 
-On this day, I was introduced to the Smart Fusion program, which combines Artificial Intelligence, Machine Learning, and Internet of Things. The session explained how these technologies work together to create intelligent and connected systems.
+**Learning Outcome:**
+- Understood AI/ML integration with IoT devices.
+- Learned data acquisition from sensors to cloud.
+
+**Challenges & Resolutions:**
+| Challenge | Resolution |
+|-----------|-----------|
+| Difficulty in connecting sensors | Followed official wiring and port configuration |
