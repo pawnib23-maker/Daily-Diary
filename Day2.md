@@ -1,4 +1,4 @@
-## Day 2 – Date: 02/01/2025
+## Day 2 
 **Tasks Completed:**
 - Explored AI/ML algorithms: Linear Regression, Decision Trees.
 - Visualized sensor data in real-time graphs.
