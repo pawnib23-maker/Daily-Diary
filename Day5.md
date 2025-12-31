@@ -1,4 +1,4 @@
-## Day 5 – 
+## Day 5 
 **Tasks Completed:**
 - Developed ML model to predict temperature trends.
 - Visualized prediction vs actual sensor readings.
