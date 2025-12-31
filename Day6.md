@@ -1,4 +1,4 @@
-## Day 6 – Date: 06/01/2025
+## Day 6 
 **Tasks Completed:**
 - Implemented IoT alert system based on AI predictions.
 - Configured email/SMS alerts for threshold crossings.
