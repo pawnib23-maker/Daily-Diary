@@ -1,4 +1,4 @@
-## Day 4 – 
+## Day 4
 **Tasks Completed:**
 - Implemented data logging from multiple sensors.
 - Stored data in local CSV and cloud database.
