@@ -1,4 +1,4 @@
-## Day 4 – Date: 04/01/2025
+## Day 4 – 
 **Tasks Completed:**
 - Implemented data logging from multiple sensors.
 - Stored data in local CSV and cloud database.
